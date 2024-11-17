@@ -5,7 +5,7 @@ public class FizzBuzz {
 	public static void main(String[] args) {
 		
 		String fizzTest = "";
-		int fizzNum = 5;
+		int fizzNum = 9;
 		
 		FizzBuzz fizz = new FizzBuzz();
 		fizz.FizzBuzzMethod(fizzNum);
